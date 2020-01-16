@@ -47,6 +47,6 @@ body, html {
   .mail {
     width: 40px;
     margin-bottom: 20px;
-    -webkit-filter: drop-shadow(1px 1px 1px black);
-      filter: drop-shadow(1px 1px 1px black);
+    -webkit-filter: drop-shadow(1px 1px 1px darkgray);
+      filter: drop-shadow(1px 1px 1px darkgray);
   }
