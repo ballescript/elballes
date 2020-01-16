@@ -9,24 +9,23 @@ body, html {
     font-family: orangekid;
   }
   
-  .bg {
-    /* The image used */
-    background-image: url("dawn-3358468_1920.jpg");
   
-    /* Full height */
-    height: 100%; 
-  
-    /* Center and scale the image nicely */
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+  .fondo {
+    position: fixed;
+    height: 100%;
+    right: 0px;
+    min-width: 100vw;
+    z-index: -1;
+    top: 0px;
   }
 
+  
+
   .texto {
-    position: absolute;
-    right: 10%;
-    top: 20%;
+    float: right;
     text-align: right;
+    margin-right: 10vw;
+    margin-top: 20vh;
   }
   h1 {
     font-size: 40px;
