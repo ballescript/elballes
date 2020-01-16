@@ -1,6 +1,12 @@
+@font-face {
+  font-family: orangekid;
+  src: url(orangekid.ttf);
+}
+
 body, html {
     height: 100%;
     margin: 0;
+    font-family: orangekid;
   }
   
   .bg {
@@ -26,5 +32,10 @@ body, html {
   a {
     text-decoration: none;
     color: black;
-    text-shadow: 1px 1px;
+    text-shadow: 1px 1px 1px;
+  }
+  .mail {
+    width: 40px;
+    -webkit-filter: drop-shadow(1px 1px 1px black);
+      filter: drop-shadow(1px 1px 1px black);
   }
