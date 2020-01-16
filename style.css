@@ -7,7 +7,6 @@ body, html {
     height: 100%;
     margin: 0;
     font-family: orangekid;
-    font-size: 3vh;
   }
   
   .bg {
@@ -28,6 +27,17 @@ body, html {
     right: 10%;
     top: 20%;
     text-align: right;
+  }
+  h1 {
+    font-size: 40px;
+  }
+
+  h2 {
+    font-size: 30px;
+  }
+
+  h3 {
+    font-size: 20px;
   }
 
   a {
