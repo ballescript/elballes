@@ -19,7 +19,10 @@ body, html {
     top: 0px;
   }
 
-  
+    .foto-fondo {
+    height: 100%;
+    min-width: 100vw;
+  }
 
   .texto {
     float: right;
