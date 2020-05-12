@@ -49,7 +49,7 @@ body, html {
   }
   .mail {
     width: 40px;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
     -webkit-filter: drop-shadow(1px 1px 1px darkgray);
       filter: drop-shadow(1px 1px 1px darkgray);
   }
